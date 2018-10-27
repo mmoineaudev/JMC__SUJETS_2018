@@ -1,0 +1,127 @@
+<?xml version = "1.0" encoding="ISO8859-1" standalone="yes" ?>
+<title>Facture de solde intermédiaire</title>
+<siret>SIRET XXX XXX XXX XXXX</siret>
+<ape>XXXX X</ape>
+<from>
+<denomination>junior MIAGE Concept</denomination>
+<description>
+<association>Association loi 1901, affiliée à la CNJE,</association>
+<formation>Formation MIAGE de Nice Sophia Antipolis</formation>
+</description>
+<adresse>
+1645, route des Lucioles 06410 Bio	
+</adresse>
+<numTVA>N° TVA intracommunautaire: FRXXXXXXXXX</numTVA>
+<numUrsaff>N° URSSAF: XXXXXXXX</numUrsaff>
+<date>DDMMYYYY</date>
+<refEtude>Réf étude : ETU_INXX_AMXX_2018</refEtude>
+<refFacture> Facture FVT_2018_XXX</refFacture>
+</from>
+<to>
+
+<denomination>Nom du Client : XXXXXXXX</denomination>
+
+<adresse>
+XX Avenue random 06250 Mougins	
+</adresse>
+ 	
+ </to>
+
+ <preface>
+Bonjour,
+Veuillez trouver ci-après le détail de votre facture, en référence à la Convention Entreprise : ETU_INXX_AMXX_2018 du DD/MM/2018 et de l'Avenant :
+ETU_INXX_AMXX_2018_ACN du DD/MM/2018 définisant la réalisation d'une prestation par Junior MIAGE Concept pour le compte de XXXXXX
+</preface>
+
+<conditionPaiement>
+
+	<title>Conditions de paiement</title>
+
+	En votre aimable règlement par chèque postal ou bancaire à l'ordre de Junior MIAGE Concept, ou par virement sur le compte de l'Agence Valbonne Sophia:
+<IBAN>IBAN : XXXX XXXX XXXX XXXX XXXX</IBAN>
+<BIC>BIC : XXXXXXX</BIC>
+
+</conditionPaiement>
+
+<rappelTaches>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+		<totalTaches>
+		<designation>NTotal des taches</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<totalht> totalht (€) </totalht>
+	</totalTaches>
+
+</rappelTaches>
+<tachesFacturees>
+	
+	<rappelTaches>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+
+	<tache>
+		<designation>Nom de tache</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<puht>P.U H.T (€)</puht>
+		<totalht> totalht (€) </totalht>
+	</tache>
+		<totalTaches>
+		<designation>NTotal des taches</designation>
+		<jeh>Nombre de J.E.H</jeh>
+		<totalht> totalht (€) </totalht>
+	</totalTaches>
+<aPayer>
+	<totalht> totalht (€) </totalht>
+	<acompte> Partie de l'acompte déduite </acompte>
+	<tva>TVA sur les encaissements</tva>
+	<totalttc>Total TTC</totalttc>
+</aPayer>
+
+</tachesFacturees>
+
+<conditionsSupplementaire>Cette somme correspond à la facturation intermédiaire dû par Indacity en faveur de Junior MIAGE Concept.
+La date limite de paiement est fixée au 11 juin 2018. En cas de retard de paiement, conformément à la loi 2008-776 du 04/08/2008, il sera appliqué des pénalités au taux de 3 fois le taux d'intérêt légal
+en vigueur et en application des articles L441-3 et L441-6 du code de commerce, il sera appliqué une indemnité de recouvrement de 40 €.
+Aucun escompte n'est accordé pour paiement anticipé.
+</conditionsSupplementaire>
+
+<auteur>Manon VERMERSCH
+<fonction>Trésorière</fonction>
+</auteur>
+Option 2: Or upload your XML document
+Text mode:
+Indentation level:
+
+© FreeFormatter.com - FREEFORMATTER is a d/b/a of 10174785 Canada Inc. - Copyright Notice - Privacy Statement - Terms of Use
