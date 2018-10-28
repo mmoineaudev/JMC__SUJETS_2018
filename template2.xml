@@ -1,1 +1,71 @@
-<?xml version = "1.0" encoding="ISO8859-1" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+   <title>Facture de solde intermédiaire</title>
+   <siret>SIRET XXX XXX XXX XXXX</siret>
+   <ape>XXXX X</ape>
+   <from>
+      <denomination>XXXXXXXXXXXXXX</denomination>
+      <contact>
+         <tel>XX XX XX XX XX</tel>
+         <fax>XX XX XX XX XX</fax>
+         <mail>XXXXXX@XXXX.fr</mail>
+      </contact>
+      <adresse>XXXXXXXXX XXXXX XXX XXXXXXX</adresse>
+      <date>DDMMYYYY</date>
+      <refFacture>XXXXXXXXXXX</refFacture>
+   </from>
+   <to>
+      <denomination>Junior Miage concept</denomination>
+      <adresse>AdresseDeJMC</adresse>
+      <tel>XX XX XX XX XX</tel>
+      <fax />
+      <mail />
+   </to>
+   <title>Facture de caisse</title>
+   <referenceFacture>XXXXXXXXXXXXXXX</referenceFacture>
+   <facture>
+      <numeroDeReference>YYYYYYYYYYYYY</numeroDeReference>
+      <employe>JEAN</employe>
+      <item>
+         <codeArticle>12345</codeArticle>
+         <libelle>Cartouche d'encre</libelle>
+         <unite>U</unite>
+         <quantite>1</quantite>
+         <puht>4.1425</puht>
+         <totalht>4.14</totalht>
+         <tauxDeRemise />
+         <totalhtnet>4.14</totalhtnet>
+         <tauxTVA>20</tauxTVA>
+      </item>
+      <item>
+         <codeArticle>23456</codeArticle>
+         <libelle>feuilles A4</libelle>
+         <unite>lot</unite>
+         <quantite>1</quantite>
+         <puht>12.1341</puht>
+         <totalht>12.13</totalht>
+         <tauxDeRemise />
+         <totalhtnet>12.13</totalhtnet>
+         <tauxTVA>20</tauxTVA>
+      </item>
+      <item>
+         <codeArticle>12345</codeArticle>
+         <libelle>pochettes cartonnées</libelle>
+         <unite>lot</unite>
+         <quantite>2</quantite>
+         <puht>1.2500</puht>
+         <totalht>1.25</totalht>
+         <tauxDeRemise />
+         <totalhtnet>2.5</totalhtnet>
+         <tauxTVA>20</tauxTVA>
+      </item>
+      <totaux>
+         <totalht>XX.XX</totalht>
+         <escompe />
+         <tauxTVA>20</tauxTVA>
+         <montantht>XX.XX</montantht>
+         <montantTVA>XX.XX</montantTVA>
+         <totalTTC>XX.XX</totalTTC>
+      </totaux>
+   </facture>
+</content>
