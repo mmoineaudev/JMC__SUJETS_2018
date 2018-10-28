@@ -1,1 +1,62 @@
-<?xml version = "1.0" encoding="ISO8859-1" standalone="yes" ?>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+   <contact>
+      <denomination>XXXXXXXXXXXXXX</denomination>
+      <tel>XX XX XX XX XX</tel>
+      <fax>XX XX XX XX XX</fax>
+      <mail>XXXXXX@XXXX.fr</mail>
+      <adresse>XXXXXXXXX XXXXX XXX XXXXXXX</adresse>
+   </contact>
+   <demandeur>
+      <nom>XXXXXXXXXXXXXX</nom>
+      <prenom>XXXXXXXXXXXXXX</prenom>
+      <tel>XX XX XX XX XX</tel>
+      <mail>XXXXXX@XXXX.fr</mail>
+      <adresse>XXXXXXXXX XXXXX XXX XXXXXXX</adresse>
+      <poste>RSI</poste>
+      <dateApprobation>DDMMYYYY</dateApprobation>
+   </demandeur>
+   <deplacements>
+      <date>DDMMYYYY</date>
+      <villeDepart />
+      <villeArrivee />
+      <montantht />
+      <marquevoiture />
+      <distance />
+      <tauxRemoursement />
+      <totaux>
+         <montantht />
+         <totalttc />
+         <tauxTVA />
+         <montantTVA />
+      </totaux>
+   </deplacements>
+   <fraisPeage>
+      <date />
+      <villeDepart />
+      <villeArrivee />
+      <totaux>
+         <montantht />
+         <montantttc />
+         <tauxTVA />
+         <montantTVA />
+      </totaux>
+   </fraisPeage>
+   <autreFrais>
+      <date>DDMMYYYY</date>
+      <designation>changement serveur</designation>
+      <montantht>150</montantht>
+      <totalttc>150</totalttc>
+      <tauxTVA />
+      <montantTVA />
+      <totaux>
+         <montantht>150</montantht>
+         <totalttc>150</totalttc>
+         <tauxTVA />
+         <montantTVA />
+      </totaux>
+   </autreFrais>
+</content>
+
